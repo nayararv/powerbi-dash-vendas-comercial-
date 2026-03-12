@@ -34,11 +34,19 @@ Novas análises, visualizações e melhorias de design serão adicionadas confor
 
 ## 🗄 Fonte dos Dados
 
-Os dados utilizados neste dashboard foram **modelados e estruturados inicialmente em SQL (MySQL)**.
+Os dados utilizados neste dashboard foram **modelados e estruturados em SQL utilizando MySQL**.
 
-Posteriormente, as tabelas foram exportadas para **CSV** e utilizadas como fonte de dados no Power BI.
+Todo o processo de criação da base de dados — incluindo **modelagem do banco, criação das tabelas, relacionamentos e inserção de dados simulados** — foi desenvolvido no repositório abaixo:
 
-As tabelas utilizadas no projeto encontram-se na pasta **/data** deste repositório:
+➡️ https://github.com/nayararv/sql-analise-de-vendas
+
+Neste projeto, o **Power BI foi conectado diretamente ao banco de dados MySQL**, permitindo que o dashboard consumisse os dados **diretamente das tabelas do banco**, mantendo assim a estrutura original da base criada em SQL.
+
+Para facilitar a navegação e visualização dos dados por visitantes do repositório, também foram disponibilizadas cópias das tabelas em formato **CSV** na pasta **/data** deste projeto.
+
+Esses arquivos permitem que qualquer pessoa possa **explorar rapidamente a estrutura dos dados utilizados no dashboard**, sem a necessidade de configurar o ambiente de banco de dados.
+
+As tabelas disponibilizadas são:
 
 - `vendas.csv`
 - `clientes.csv`
@@ -47,7 +55,7 @@ As tabelas utilizadas no projeto encontram-se na pasta **/data** deste repositó
 - `datas.csv`
 - `meta_vendas.csv`
 
-Essas tabelas representam um **modelo de dados típico utilizado em projetos de Business Intelligence**.
+Essas tabelas seguem um **modelo dimensional utilizado em projetos de Business Intelligence**, com uma **tabela fato de vendas** e **tabelas dimensão de apoio para análise**.
 
 ---
 
@@ -125,3 +133,11 @@ Esses insights podem orientar decisões estratégicas como expansão regional, d
 ## 📌 Observação
 
 Os dados utilizados neste projeto são **dados simulados**, criados com fins educacionais e para desenvolvimento de **portfólio profissional em análise de dados e business intelligence**.
+
+---
+
+# 👩‍💻 Autora
+
+**Nayara Rocha Vasselechen**
+
+Projeto desenvolvido para estudo e portfólio de **Análise de Dados**.
