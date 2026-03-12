@@ -17,10 +17,12 @@ O dashboard completo, contendo todas as páginas e análises desenvolvidas, pode
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_AQUI">
+  <a href="https://github.com/nayararv/powerbi-dash-vendas-comercial-/raw/main/dashboards/dashboard_estrat%C3%A9gico_de_vendas.pbix">
     <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=powerbi&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ---
 
