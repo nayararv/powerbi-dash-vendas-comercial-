@@ -8,15 +8,19 @@ O projeto simula um cenário real de análise de desempenho de vendas, utilizand
 
 ## 📸 Visão do Dashboard
 
-Abaixo está uma das páginas do painel desenvolvida no Power BI:
+Abaixo está uma das páginas do painel desenvolvida no Power BI.
 
-![Dashboard de Vendas](images/pagina_visão_geral_dash_vendas.png)
+O dashboard completo, contendo todas as páginas e análises desenvolvidas, pode ser acessado através do botão abaixo.
 
-🔗 **Visualizar o dashboard completo**
+<p align="center">
+  <img src="images/pagina_visão_geral_dash_vendas.png" width="100%"/>
+</p>
 
-O dashboard completo, contendo todas as páginas e análises desenvolvidas, pode ser acessado no link abaixo:
-
-➡️ SEU_LINK_AQUI
+<p align="center">
+  <a href="SEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/📊%20Ver%20Dashboard-2a8e59?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
