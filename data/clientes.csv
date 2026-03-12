@@ -1,0 +1,11 @@
+﻿id_cliente;nome_clientes;genero;cidade;estado;data_cadastro;idade
+21;Ana Souza;F;São Paulo;SP;10/01/2023;23
+22;Carlos Lima;M;Rio de Janeiro;RJ;15/02/2023;35
+23;Fernanda Alves;F;Curitiba;PR;12/03/2023;41
+24;João Mendes;M;Porto Alegre;RS;20/01/2023;29
+25;Mariana Costa;F;Belo Horizonte;MG;01/04/2023;52
+26;Pedro Rocha;M;Salvador;BA;10/05/2023;31
+27;Juliana Martins;F;Fortaleza;CE;18/02/2023;44
+28;Lucas Ferreira;M;Recife;PE;22/06/2023;27
+29;Patricia Gomes;F;Brasília;DF;11/03/2023;38
+30;Ricardo Santos;M;Florianópolis;SC;01/07/2023;46
