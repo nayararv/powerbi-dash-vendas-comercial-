@@ -24,9 +24,6 @@ O dashboard completo, contendo todas as páginas e análises desenvolvidas, pode
 
 ---
 
----
-
-
 ## 🚧 Status do Projeto
 
 O dashboard encontra-se **em desenvolvimento**.  
